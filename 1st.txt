@@ -1,0 +1,15 @@
+{
+<head>\
+<title> FIRST PAGE</TITLE>\
+</head>\
+<body>\
+<h1> HELLO LPU</h1>\
+<h2>HELLO LPU</h2>\
+<h3>HELLO LPU</h3>\
+<h4>HELLO LPU</h4>\
+<h5>HELLO LPU</h5>\
+<h6>HELLO LPU</h6>\
+<p> My name is Ayush Mishra, I am from <u>Bilaspur Chhattisgarh </u>and I have completed my 12th from case board from kendriya Vidyalaya bilaspur C.G.\
+My hobbies are reading, travel, music, chess and badminton.</p>\
+</body>\
+</html>}

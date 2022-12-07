@@ -1,0 +1,21 @@
+<html>
+        <script>
+            function validateform() {
+                var name=document.myform.name.value;
+                var password=document.myform.password.value;
+                if (name==null || name=="") {
+                    alert("Kuch to liihk lodeeee");
+                    return false;
+                }else if(password.length<7) {
+                    alert("abeee lodeee thoda bada bana naa.");
+                    return false;
+                }
+            }
+        </script>
+        <body>
+            <form name="myform" method="post" action="" onsubmit="return validateform()">
+            Name: <input type="text" name="name"><br><br>
+        Password: <input type="password" name="password" onsubmit="return validateform()"><br><br>
+    <input type="submit" value="register"></form>
+        </body>
+</html>
